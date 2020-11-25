@@ -8,10 +8,10 @@ meta =
 
     -- Name of your mod; You may want this to be unique, but it's not absolutely necessary.
     -- This is an additional helper attribute for you to easily identify your mod in the Mods() list
-    name = "Trading System Memory Upgrade",
+    name = "competent-trading",
 
     -- Title of your mod that will be displayed to players
-    title = "TradeExport - Updated",
+    title = "Trading System Memory Upgrade",
 
     -- Type of your mod, either "mod" or "factionpack"
     type = "mod",
@@ -58,5 +58,5 @@ meta =
     saveGameAltering = false,
 
     -- Contact info for other users to reach you in case they have questions
-    contact = ""
+    contact = "https://github.com/hiker77/avorion-competent-trading"
 }
